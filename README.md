@@ -18,4 +18,4 @@ This project analyzes AI job market trends (2025–2026) using Power BI ,includi
 - Companies should adopt remote hiring  
 
 ## 📷 Dashboard
-![Dashboard](images/dashboard.png)
+![page 1](images/dashboard 1.png)
