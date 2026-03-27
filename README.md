@@ -24,3 +24,5 @@ This project analyzes AI job market trends (2025–2026) using Power BI ,includi
 
 images/Screenshot 2026-03-24 151542.png
 
+"C:\Users\Administrator\Pictures\Screenshots\dashboard"
+
